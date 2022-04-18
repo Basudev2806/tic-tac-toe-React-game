@@ -1,3 +1,7 @@
+# Tic-Tac-Toe Project hosted link
+
+Open [tic-tac-toe-game](https://tic-tac-toe-game-react.herokuapp.com/) to view it in the browser.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
